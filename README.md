@@ -3,7 +3,6 @@ My first steps into the world of programming were made using the academic progra
 2. Ship game
 Leaving this here as a memory :)
 
-![racing](https://github.com/user-attachments/assets/11e94151-a6fc-44af-9196-d782c31eff15)
+![racing](https://github.com/user-attachments/assets/00b11d55-c61f-4d60-8130-81c3e30fc14e)
 
-![ship](https://github.com/user-attachments/assets/a63c2979-d3fc-49dc-ba77-60f47206cda9)
-
+![ship](https://github.com/user-attachments/assets/1852f3c6-b13a-4b67-94f7-3776881bf49f)
